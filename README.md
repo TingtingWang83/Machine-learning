@@ -1,2 +1,2 @@
-# Machine-learning
-This is my practice work for Machine Learning. All code is from "Machine Learning with Python Cookbook".
+# Machine-learning Practice
+This is my practice work for Machine Learning. All code is from "Machine Learning with Python Cookbook". This practice is unfinish. Still Updating.......
